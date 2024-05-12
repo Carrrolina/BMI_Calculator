@@ -17,7 +17,7 @@ BMI Calculator was an app that I have developed to take my first steps with Andr
     - Button
 - Toast to message display
 - Intent Explicita to open the second activity 
-- String resource for texts concatenation
+- String resource for text concatenation
 
 
 ### TO DO
