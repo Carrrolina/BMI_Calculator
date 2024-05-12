@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="message">BMI Calculator</string>
+    <string name="message_classification">Classification: %1$s!</string>
+</resources>
