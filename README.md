@@ -3,7 +3,7 @@ BMI Calculator was an app that I have developed to take my first steps with Andr
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="C:\Users\regue\Downloads\Écran d'accueil.png" width="260">&emsp;<img src="C:\Users\regue\Downloads\Deuxième écran.png" width="260">&emsp;<img src="C:\Users\regue\Downloads\Écran de résultat.png" width="260">   
+<img src="/result/Écran d'accueil.png" width="260">&emsp;<img src="/result/Deuxième écran.png" width="260">&emsp;<img src="/result/Écran de résultat.png" width="260">   
 
 ## Technologies
 * Kotlin
