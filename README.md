@@ -7,7 +7,7 @@ BMI Calculator was an app that I have developed to take my first steps with Andr
 
 ## Technologies
 * Kotlin
-* Activity to host screens
+* Activity to host/manage screens
 * ViewGroup
     * RelativeLayout
     * LinearLayout
@@ -16,7 +16,7 @@ BMI Calculator was an app that I have developed to take my first steps with Andr
     - EditText
     - Button
 - Toast to message display
-- Intent Explicita to open the second activity 
+- Explicit Intent to open the second activity 
 - String resource for text concatenation
 
 
