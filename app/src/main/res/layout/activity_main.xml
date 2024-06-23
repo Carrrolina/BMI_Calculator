@@ -23,7 +23,7 @@
         android:layout_marginTop="16dp"
         android:hint="Type your height here"
         android:inputType="numberDecimal"
-        android:maxLength="6"/> />
+        android:maxLength="6"/>
 
     <Button
         android:id="@+id/btnCalculate"
